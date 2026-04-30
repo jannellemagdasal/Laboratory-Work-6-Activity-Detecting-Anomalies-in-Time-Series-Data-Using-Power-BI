@@ -23,6 +23,12 @@ Anomaly 1
 Anomaly 2
 <img width="648" height="417" alt="image" src="https://github.com/user-attachments/assets/a415f9ab-c516-4398-a238-850488d7c9e6" />
 
+Anomaly 3
+<img width="657" height="354" alt="image" src="https://github.com/user-attachments/assets/f3672379-52e2-453f-b263-e176e5ef67f0" />
+
+Anomaly 4
+<img width="662" height="402" alt="image" src="https://github.com/user-attachments/assets/0f8028b0-4fe8-4e0d-a819-35b1f632e5ef" />
+
 
 
 
