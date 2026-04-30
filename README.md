@@ -13,7 +13,18 @@ Part 2: Data Visualization
 
 Part 3: Enable Anomaly Detection
 <img width="700" height="456" alt="image" src="https://github.com/user-attachments/assets/543bb01d-6590-4c96-9043-bda1640e2793" />
+
+
+Part 4: Explain Anomalies
+
+Anomaly 1
 <img width="626" height="387" alt="image" src="https://github.com/user-attachments/assets/37b6fd08-012c-4da8-8970-2a9c1949d72e" />
+
+Anomaly 2
+<img width="648" height="417" alt="image" src="https://github.com/user-attachments/assets/a415f9ab-c516-4398-a238-850488d7c9e6" />
+
+
+
 
 
 
