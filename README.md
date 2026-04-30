@@ -59,6 +59,8 @@ The new enhancement report indicates that on day 1, the Sum of Tourists was unex
 16. Compare:
 Before vs. after anomaly detection
 Newly detected anomalies
+<img width="757" height="358" alt="image" src="https://github.com/user-attachments/assets/18595947-baaf-46b1-9d6b-3879c3fb7fcf" />
+
 
 The earlier anomalies showed unusually high and unusually low tourist totals with different likely drivers: in the previous “high” cases, the Sum of Tourists was above the expected range and the report pointed to Holiday Park as a key reason, suggesting that an unusually large number of tourists staying in Holiday Parks helped push the overall total up; in the previous “low” cases, the total fell below the expected range and the report pointed to factors like Hotel and International travel, meaning fewer hotel stays or fewer international visitors likely pulled the total down. In the new anomaly, the Sum of Tourists is again unexpectedly low, but it is specifically linked most strongly to Accommodation Type: Hotel (31% strength), indicating the drop is more clearly driven by an unusually low number of tourists staying in hotels—so compared to the earlier anomalies, the new one matches the “low” pattern but with a stronger and more direct emphasis on the Hotel category rather than Holiday Parks (high anomalies) or International travel (a previous low anomaly).
 
