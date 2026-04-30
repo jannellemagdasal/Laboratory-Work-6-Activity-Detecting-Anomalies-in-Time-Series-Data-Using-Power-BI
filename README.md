@@ -45,10 +45,22 @@ Anomaly 4 shows the Sum of Tourists was unexpectedly low on 1, with a value of 9
 Anomaly 1 and 2 are saying that on day 1 there were way more tourists than usual (4,307,000 and 4,895,000). The report thinks this happened because a lot more people stayed in “Holiday parks” than normal, which pushed the total number of tourists up. Anomaly 3 and 4 are saying that on day 1 there were way fewer tourists than usual (363,000 and 923,000). The report thinks this happened because fewer people stayed in hotels and fewer international (from other countries) travelers came, which pulled the total number of tourists down.
 
 Part 6: Enhancement Task
+14. Add your own new anomaly dataset (sample below) into your existing dataset.
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/f1d12c53-5d33-4f31-a798-d05dfd56f250" />
+
+15. Refresh the report and observe changes.
 <img width="609" height="358" alt="image" src="https://github.com/user-attachments/assets/42cce3ff-41ad-41c4-845b-a2395615d104" />
 
-
 The new enhancement report indicates that on day 1, the Sum of Tourists was unexpectedly low. It recorded a value of 20,000, which falls below the expected range of 61,870 to 1,206,871, so the system flagged it as an anomaly. Under Possible explanations, the report highlights “Accommodation Type is Hotel” with a 31% strength, suggesting that the strongest contributing factor is related to the Hotel category. In other words, the report suggests that the Sum of Tourists for hotels was unusually low, and this decrease likely contributed to lowering the overall total number of tourists.
+
+
+
+
+16. Compare:
+Before vs. after anomaly detection
+Newly detected anomalies
+
+The earlier anomalies showed unusually high and unusually low tourist totals with different likely drivers: in the previous “high” cases, the Sum of Tourists was above the expected range and the report pointed to Holiday Park as a key reason, suggesting that an unusually large number of tourists staying in Holiday Parks helped push the overall total up; in the previous “low” cases, the total fell below the expected range and the report pointed to factors like Hotel and International travel, meaning fewer hotel stays or fewer international visitors likely pulled the total down. In the new anomaly, the Sum of Tourists is again unexpectedly low, but it is specifically linked most strongly to Accommodation Type: Hotel (31% strength), indicating the drop is more clearly driven by an unusually low number of tourists staying in hotels—so compared to the earlier anomalies, the new one matches the “low” pattern but with a stronger and more direct emphasis on the Hotel category rather than Holiday Parks (high anomalies) or International travel (a previous low anomaly).
 
 
 
