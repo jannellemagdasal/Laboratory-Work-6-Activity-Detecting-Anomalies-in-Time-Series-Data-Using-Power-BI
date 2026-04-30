@@ -66,6 +66,9 @@ The earlier anomalies showed unusually high and unusually low tourist totals wit
 
 
 
+### Google link: [powerBi](https://drive.google.com/file/d/1LCtKiSM9k4-oqVlNnYWsxuzKEpiNGPtr/view?usp=sharing)
+
+
 
 
 
