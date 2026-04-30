@@ -30,7 +30,9 @@ Anomaly 4
 <img width="662" height="402" alt="image" src="https://github.com/user-attachments/assets/0f8028b0-4fe8-4e0d-a819-35b1f632e5ef" />
 
 
-
+Part 5: Interpretation and Analysis
+Anomaly 1
+Anomaly 1 says that the Sum of Tourists was unexpectedly high on 1, with a value of 4,307,000, which is above the expected range of 2,348,597–4,195,403; under Possible explanations (Strength), it notes that “Accomodation type” is Holiday park (16%) and explains that the Sum of Tourists for Accomodation type Holiday park was unusually high, which may have lifted the Sum of Tourists total.
 
 
 
